@@ -23,3 +23,6 @@ c) Multiclass SVM
 d) Cross validation of hyperparameters
 
 Feature selection over Spark
+
+Link of MNIST dataset:
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#mnist
